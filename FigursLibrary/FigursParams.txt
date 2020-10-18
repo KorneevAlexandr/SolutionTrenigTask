@@ -1,0 +1,21 @@
+﻿Circle(radius):
+1
+2
+3
+Quadrate(length):
+2
+3
+4
+5
+Rectangle(width, height):
+1 2
+4 5
+Triangle(three sides):
+2 3 4
+3 4 5
+7 8 12
+3 3 5
+17 9 10
+Trapeze(four sides):
+13 7 5 5
+8 5 4 5
